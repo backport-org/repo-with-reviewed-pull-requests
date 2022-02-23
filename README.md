@@ -2,3 +2,4 @@
 
 Add giraffe 🦒
 Add another lion 🦁
+Add elephant 🐘
